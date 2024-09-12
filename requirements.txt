@@ -1,0 +1,17 @@
+altgraph==0.17.4
+importlib_metadata==8.5.0
+packaging==24.1
+pefile==2024.8.26
+prompt-toolkit==3.0.36
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+pyinstallerui==0.2.3
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
+pywin32-ctypes==0.2.3
+QDarkStyle==3.2.3
+QtPy==2.4.1
+questionary==2.0.1
+wcwidth==0.2.13
+zipp==3.20.1

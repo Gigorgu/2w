@@ -1,3 +1,8 @@
 /.venv/
 /molybdenum/
 index.py
+dist/molybdenum.exe.sha256
+source.zip.sha256
+source.zip
+2w.zip.sha256
+2w.zip
